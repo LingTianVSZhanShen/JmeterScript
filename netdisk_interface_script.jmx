@@ -3377,7 +3377,7 @@
         <stringProp name="ThreadGroup.delay"></stringProp>
       </ThreadGroup>
       <hashTree>
-        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="5.管理员注销登录" enabled="true">
+        <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="5.管理员注销登录" enabled="false">
           <collectionProp name="ModuleController.node_path">
             <stringProp name="23750841">工作台</stringProp>
             <stringProp name="869052411">测试计划</stringProp>

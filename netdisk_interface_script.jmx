@@ -257,7 +257,7 @@
           </elementProp>
           <elementProp name="file_path" elementType="Argument">
             <stringProp name="Argument.name">file_path</stringProp>
-            <stringProp name="Argument.value">C:\Users\sc\Downloads</stringProp>
+            <stringProp name="Argument.value">/data/report/script/JmeterScript</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.desc">本地文件路径</stringProp>
           </elementProp>

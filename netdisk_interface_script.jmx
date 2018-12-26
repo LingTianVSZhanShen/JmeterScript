@@ -9075,8 +9075,8 @@ vars.put(&quot;folderName&quot;,folder_name_get);</stringProp>
             <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="1113 个人文件_删除_数据准备  /unode/stor/uploadPart" enabled="true">
               <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
                 <collectionProp name="HTTPFileArgs.files">
-                  <elementProp name="${file_path}\LXP个人文件2.txt" elementType="HTTPFileArg">
-                    <stringProp name="File.path">${file_path}\LXP个人文件2.txt</stringProp>
+                  <elementProp name="${file_path}/LXP个人文件2.txt" elementType="HTTPFileArg">
+                    <stringProp name="File.path">${file_path}/LXP个人文件2.txt</stringProp>
                     <stringProp name="File.paramname"></stringProp>
                     <stringProp name="File.mimetype"></stringProp>
                   </elementProp>
@@ -9606,8 +9606,8 @@ vars.put(&quot;folderName&quot;,folder_name_get);</stringProp>
             <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="1114 个人文件_H5编辑_上传编辑后的文件块  /unode/stor/uploadPart" enabled="true">
               <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
                 <collectionProp name="HTTPFileArgs.files">
-                  <elementProp name="${file_path}\LXP个人文件3.txt" elementType="HTTPFileArg">
-                    <stringProp name="File.path">${file_path}\LXP个人文件3.txt</stringProp>
+                  <elementProp name="${file_path}/LXP个人文件3.txt" elementType="HTTPFileArg">
+                    <stringProp name="File.path">${file_path}/LXP个人文件3.txt</stringProp>
                     <stringProp name="File.paramname"></stringProp>
                     <stringProp name="File.mimetype"></stringProp>
                   </elementProp>

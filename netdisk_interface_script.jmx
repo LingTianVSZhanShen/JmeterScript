@@ -3259,8 +3259,8 @@ vars.put(&quot;only_num&quot;,(uuid1.toString()).toUpperCase().replaceAll(&quot;
             <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="0303 用户导入_上传用户信息 excelUpload" enabled="true">
               <elementProp name="HTTPsampler.Files" elementType="HTTPFileArgs">
                 <collectionProp name="HTTPFileArgs.files">
-                  <elementProp name="${file_path}\private_import.csv" elementType="HTTPFileArg">
-                    <stringProp name="File.path">${file_path}\private_import.csv</stringProp>
+                  <elementProp name="${file_path}/private_import.csv" elementType="HTTPFileArg">
+                    <stringProp name="File.path">${file_path}/private_import.csv</stringProp>
                     <stringProp name="File.paramname">filename</stringProp>
                     <stringProp name="File.mimetype">application/vnd.ms-excel</stringProp>
                   </elementProp>
